@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Chapter 3 - A briar wolfe went to the movies and had a beefsteak. It was a good night
+=======
+Chapter 3 - Fred saw a movie called A Briar Wolfe in Venice. He was a happy Wolfe.
+Then he went home and ate a beefsteak.
+>>>>>>> chapter_3
